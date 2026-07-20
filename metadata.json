@@ -1,0 +1,6 @@
+{
+  "name": "Gakworld Microsoft 365 Blogs",
+  "description": "Microsoft 365 Blogs featuring news, expert tips, and tutorials for educators and students by gakworld.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
